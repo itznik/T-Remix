@@ -1,10 +1,10 @@
 #!/data/data/com.termux/files/usr/bin/bash
 ######################################
 #        PROJECT: T-Remix            #
-#        Author: ARIJ ARMAN          #
-#  email: mrxanonymous633@gmailcom   #
+#        Author: Itznik              #
+#  email: nikvrya@gmail.com          #
 ######################################
-echo -e "\e[32m[*]\e[34m WELCOME TO ARIJ ARMANS TOOLS  \e[m "
+echo -e "\e[32m[*]\e[34m WELCOME TO ITZNIK'S TOOLS  \e[m "
 echo
 #Installing the following packages to install T-Remix
 echo " "
@@ -38,7 +38,7 @@ echo " "
 echo " "
 echo "
 
-        WELCOME TO ARIJ ARMAN TOOLS_-^^TECH KNOW LINUX^^-_ SUBSCRIBE YOUTUBE CHANNEL
+        WELCOME TO ITZNIK'S TOOLS_-^^TECH WIZARD^^-_ SUBSCRIBE YOUTUBE CHANNEL
     
                 ████████╗      ██████╗ ███████╗███╗   ███╗██╗██╗  ██╗
                 ╚══██╔══╝      ██╔══██╗██╔════╝████╗ ████║██║╚██╗██╔╝
@@ -51,7 +51,7 @@ echo "
 echo " "
 echo " "
 echo " 
-       <─────────────── [ Re-Coded by =*•.¸♡ ARIJ ARMAN ♡¸.•* ] ───────────────>            
+       <─────────────── [ Re-Coded by =*•.¸♡ ITZNIK ♡¸.•* ] ───────────────>            
                                                                " |lolcat
 
 
@@ -131,9 +131,9 @@ echo " "
 echo -e "\033[1;32m﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ \033[m  "   
 echo -e "\033[1;33m[*]Please wait \e[m "
 echo -e "\033[1;33m[*]checking installtion \e[m "
-echo -e "\033[1;33m[*]system ok -- CHECKED BY ARIJ ARMAN\e[m "
+echo -e "\033[1;33m[*]system ok -- CHECKED BY ITZNIK\e[m "
 echo -e "\033[1;33m[*]setting termux as a real hacker \e[m"
-echo -e "\033[1;33m[*]Please SUBSCRIBE TECH KNOW LINUX channel for hacking tutorial! \e[m "
+echo -e "\033[1;33m[*]Please SUBSCRIBE TECH WIZARD channel for hacking tutorial! \e[m "
 echo FINISHED !
 echo -e "\033[1;32m                                                             
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ \033[m "
@@ -164,7 +164,7 @@ echo -e "\e[32m
  
 
     Your termux is now end-to-end Encrypted,No one can touch your data a bit.....
-    SUBSCRIBE TECH KNOW LINUX channel for hacking and cyber security tutorials,ok?
+    SUBSCRIBE TECH WIZARD channel for hacking and cyber security tutorials,ok?
 
 
                        ██╗      █████╗  ██████╗ ██╗███╗  ██╗
@@ -177,7 +177,7 @@ echo " "
 
 echo " "
 echo "
-        <─────────────── [Re-Coded by *•.¸♡ ARIJ ARMAN ♡¸.•* ] ───────────────>              
+        <─────────────── [Re-Coded by *•.¸♡ ITZNIK ♡¸.•* ] ───────────────>              
                             " |lolcat
 
 echo " "
@@ -193,7 +193,7 @@ tput clear
 tput cup 3 30
 echo -e "\e[44m Like \e[41m Subscribe \e[m"
 tput cup 6 30
-echo -e "\x1b[42m ARIJ ARMAN's TECH KNOW LINUX channel \x1b[m"
+echo -e "\x1b[42m ITZNIK'S TECH WIZARD channel \x1b[m"
 tput cup 9 0
 echo -en "\e[93m what is your name : \e[m"
 read answer
@@ -211,7 +211,7 @@ tput cup 17 23
     echo -e "\x1b[41m Please subsrcibe my channel for hacking tutorial \x1b[m"
 fi
 tput cup 20 0
-figlet -f slant "ARIJ ARMAN's TECH KNOW LINUX" |lolcat
+figlet -f slant "ITZNIK'S TECH WIZARD CHANNEL" |lolcat
 echo " "
 echo " "
 #done setting up
