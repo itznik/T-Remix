@@ -12,8 +12,6 @@ Hope you guys like this Project,then dont forget to give it a like.
    6. New banner.
    7. Login banner is for HACKERs only.
    8. Show off to other with hacker attitude.
-# Developer's Image   
-<img src="https://avatars3.githubusercontent.com/u/67367001?s=460&u=a3584dda8e1795eb39f9670ca8197c120d2cc497&v=4">
    
 ### WANNA TRY THIS NEW CUSTOMISATION OF TERMUX? IT'LL GIVE A MODERN LOOK TO YOUR TERMUX TO SHOW OFF :)
 ### Installation T-Remix
@@ -23,7 +21,7 @@ $ termux-setup-storage
   
 $ pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/Arij-arman/T-Remix
+$ git clone https://github.com/itznik/T-Remix
 
 $ ls
 
@@ -56,7 +54,7 @@ $ ls
 
 $ bash remove-login.sh
 ```
-### Development by ARIJ ARMAN
+### Development by Itznik
 ### Keep connected for hacking tools, Thank you.
-### Subscribe my channel for hacking tutorials, <a href="https://www.youtube.com/channel/UCJ5H4A3QAsIbQsVqfMBdZYQ" target=_blank >Tech Know Linux </a>
+### Subscribe my channel for hacking tutorials, <a href="https://youtube.com/channel/UCzyUzMk1sIvfQlr0zuvS6uw" target=_blank >Tech Wizard </a>
 
